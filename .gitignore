@@ -1,0 +1,10 @@
+
+# Private database configuration
+db.php
+
+# Private database export
+student_grading_system.sql
+
+# Backups
+*.bak
+*.zip
